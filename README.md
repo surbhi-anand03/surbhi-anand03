@@ -67,15 +67,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight" />
-</p>
+![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
 
 ---
 
