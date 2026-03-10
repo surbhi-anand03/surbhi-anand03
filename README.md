@@ -65,6 +65,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=surbhi-anand03&theme=tokyonight)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
