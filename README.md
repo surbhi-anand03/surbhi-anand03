@@ -28,15 +28,15 @@ Full-Stack Developer </h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/surbhi-anand-65bbb8320/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 
 <a href="mailto:survanand64@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
 </a>
 
 <a href="https://github.com/surbhi-anand03">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
 
 </p>
@@ -48,25 +48,25 @@ Full-Stack Developer </h3>
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css" height="30"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" height="30"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
 </p>
 
 ### 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman" height="30"/>
 </p>
 
 ### 📚 Concepts
