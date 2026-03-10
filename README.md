@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="girl coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="center" alt="girl coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ### 👩‍💻 About Me
 
@@ -78,8 +78,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [Prescripto](https://github.com/surbhi-anand03/Prescripto) | MERN Healthcare Appointment System |
-| [AtithiSathi](https://github.com/surbhi-anand03/AtithiSathi) | Hotel Listing & Review Platform |
+|🏥 [Prescripto](https://github.com/surbhi-anand03/Prescripto) | MERN Healthcare Appointment System |
+|🎪 [AtithiSathi](https://github.com/surbhi-anand03/AtithiSathi) | Hotel Listing & Review Platform |
 
 ---
 
