@@ -92,7 +92,7 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhi-anand03&theme=tokyo-night"/>
@@ -100,16 +100,8 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 👀 Profile Views
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/surbhi-anand03/surbhi-anand03/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=surbhi-anand03&color=blue"/>
 </p>
