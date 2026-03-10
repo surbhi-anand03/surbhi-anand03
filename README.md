@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Surbhi Anand👩‍💻</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">
+Full-Stack Developer • React • Node • MongoDB
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Node+MongoDB;Web+Application+Developer;Learning+DSA+with+Python" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       alt="Coding animation"
-       width="420"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -106,6 +106,6 @@
 
 # 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=surbhi-anand03&color=blue"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=surbhi-anand03&color=blue&style=for-the-badge"/>
 </p>
