@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Surbhi Anand👩‍💻</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Node+MongoDB;Building+Full+Stack+Web+Apps;Learning+DSA+with+Python" />
-</p>
+<img align="center" alt="girl coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ---
 
-<img align="center" alt="girl coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ### 👩‍💻 About Me
 
@@ -78,8 +75,8 @@
 
 | Project | Description |
 |--------|-------------|
-|🏥 [Prescripto](https://github.com/surbhi-anand03/Prescripto) | MERN Healthcare Appointment System |
-|🎪 [AtithiSathi](https://github.com/surbhi-anand03/AtithiSathi) | Hotel Listing & Review Platform |
+| [Prescripto](https://github.com/surbhi-anand03/Prescripto) | MERN Healthcare Appointment System |
+| [AtithiSathi](https://github.com/surbhi-anand03/AtithiSathi) | Hotel Listing & Review Platform |
 
 ---
 
