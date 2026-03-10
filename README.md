@@ -67,11 +67,11 @@
 
 ## 📊 GitHub Stats
 
-![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
 
 ---
 
