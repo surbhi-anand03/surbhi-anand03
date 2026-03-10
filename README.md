@@ -67,21 +67,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
-
-## 📊 GitHub Stats
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight" />
-
----
+</p>
 
 ## 🔥 Most Used Languages
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
