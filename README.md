@@ -22,7 +22,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/surbhi-anand-65bbb8320⁠">
+<a href="https://www.linkedin.com/in/surbhi-anand-65bbb8320/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
@@ -73,20 +73,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight" />
+
+---
+
+## 🔥 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight" />
+
 ---
 
 ### 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhi-anand03&theme=tokyo-night)
 
----
-
-### 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/surbhi-anand03/surbhi-anand03/blob/output/github-contribution-grid-snake.svg)
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,mysql,tailwind" />
-</p>
 
 ---
 ## 🐍 Contribution Snake
