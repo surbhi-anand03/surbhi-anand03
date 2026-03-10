@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surbhi</h1>
+<h1 align="center">Hi, I'm Surbhi👩‍💻</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
 <p align="center">
@@ -65,13 +65,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
 
----
-
-### 🔥 Most Used Languages
+## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
 
@@ -91,13 +89,6 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact)
+![Snake animation](https://github.com/surbhi-anand03/surbhi-anand03/blob/output/github-contribution-grid-snake.svg)
