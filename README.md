@@ -1,27 +1,28 @@
-<h1 align="center">Hi, I'm Surbhi👩‍💻</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Surbhi Anand</h1>
+<h3 align="center">Full Stack MERN Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Node+MongoDB;Web+Application+Developer;Learning+DSA+with+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Node+MongoDB;Building+Full+Stack+Web+Apps;Learning+DSA+with+Python" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="girl coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student  
+- 🎓 B.Tech CSE Student at **GIFT Autonomous College, Bhubaneswar**
 - 💻 Full Stack MERN Developer  
 - 📚 Learning **DSA with Python**  
-- 🚀 Building real-world web applications  
-- 🎯 Goal: Full Stack Developer
+- 🚀 Passionate about building real-world web applications  
+- 🎯 Looking for **MERN / Software Developer Internship**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/surbhi-anand-65bbb8320/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -33,60 +34,88 @@
 <a href="https://github.com/surbhi-anand03">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
+
 </p>
 
 ---
 
-### 👀 Visitor Counter
+# 🚀 Technical Skills
 
-![](https://komarev.com/ghpvc/?username=surbhi-anand03&color=blue)
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,html,css"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman"/>
+</p>
+
+### 📚 Concepts
+
+- REST APIs  
+- JWT Authentication  
+- MVC Architecture  
+- CRUD Operations  
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,python,git,github" />
+<p align="center">
+
+<a href="https://github.com/surbhi-anand03/Prescripto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=surbhi-anand03&repo=Prescripto&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/surbhi-anand03/AtithiSathi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=surbhi-anand03&repo=AtithiSathi&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 Projects
+# 🔥 GitHub Streak
 
-#### 🏥 Prescripto – Healthcare Appointment System
-- MERN Stack Web Application
-- Book doctor appointments online
-- Authentication and appointment management
-
-#### 🏠 AtithiSathi – Guest Management System
-- CRUD based application
-- Manage and store guest records
-- Simple and efficient UI
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=surbhi-anand03&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Activity Graph
 
-![](https://github-profile-trophy.vercel.app/?username=surbhi-anand03&theme=tokyonight)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=surbhi-anand03&show_icons=true&theme=tokyonight)
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=surbhi-anand03&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhi-anand03&theme=tokyo-night"/>
+</p>
 
 ---
 
-### 📈 Contribution Graph
+# 🐍 Contribution Snake
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhi-anand03&theme=tokyo-night)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/surbhi-anand03/surbhi-anand03/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/surbhi-anand03/surbhi-anand03/blob/output/github-contribution-grid-snake.svg)
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=surbhi-anand03&color=blue"/>
+</p>
