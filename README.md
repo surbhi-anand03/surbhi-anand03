@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student at **GIFT Autonomous College, Bhubaneswar**
+- 🎓 B.Tech CSE Student 
 - 💻 Full Stack MERN Developer  
 - 📚 Learning **DSA with Python**  
 - 🚀 Passionate about building real-world web applications  
